@@ -1,5 +1,11 @@
 # Changelog
 
+## v0.5.0
+- Stabilised publishing template
+- Simplified template metadata
+- introduced Part Tile and Part Subtitle styles
+- modified TOC contents styles and Chapter Numbering...
+
 ## v0.4.0
 - Added semantic paragraph styles
 - Added page styles
